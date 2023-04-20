@@ -1,0 +1,17 @@
+Plugin Radia RockSerwis
+-----------------------------
+wersja 1.0
+dla Volumio 3
+Autor: MaRbEd
+Warszawa, 08.04.2023
+-----------------------------
+
+Jak zainstalować?
+-----------------
+
+1. Rozpakować archiwum.
+2. Zalogować się do swojego serwera Volumio np poprzez WINSCP
+3. W katalogu: /data/plugins/music_service/ skopiować do niego całą zawartość rozpakowanego wcześniej archiwum.
+4. Wejść poprzez przeglądarkę na swoje Volumio i w Menu wybrać WTYCZKI -> Zainstalowane Wtyczki
+5. Aktywować nową wtyczkę Radio RockSerwis
+Gotowe!
